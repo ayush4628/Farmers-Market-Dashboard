@@ -66,6 +66,6 @@ To create an interactive tool that:
 ![Sales Dashboard](./screenshots/Farmer-market-Dashboard(2).png)  
 
 ### Combined Sales & Quantity View  
-![Combined Dashboard](./screenshots/Farmer-market-Dashboard(1).png)  
+![Combined Dashboard](./screenshots/Farmer-market-Dashboard(3).png)  
 
 ---
