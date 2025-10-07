@@ -69,3 +69,6 @@ To create an interactive tool that:
 ![Combined Dashboard](./screenshots/Farmer-market-Dashboard(3).png)  
 
 ---
+## 📬 Contact
+📧 Email: [mauryaayush7377@gmail.com](mailto:mauryaayush7377@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ayush4628)
